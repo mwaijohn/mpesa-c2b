@@ -1,0 +1,4 @@
+{"timestamp":"2025-04-03 12:11:00","shortcode":"600979","environment":"sandbox","error":"URL registration failed","http_code":401}
+{"timestamp":"2025-04-03 12:14:43","shortcode":"600989","environment":"sandbox","error":"URL registration failed","http_code":401}
+{"success":false,"response":{"requestId":"c20c-4eb8-8161-40af4f84ee3978533","errorCode":"401.003.01","errorMessage":"Error Occurred - Invalid Access Token - "},"http_code":401}
+{"success":true,"access_token":"U4twLs0PhbSi45Y9AAPbnVC8gCHQ"}
